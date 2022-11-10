@@ -4,7 +4,7 @@ turtle.bgcolor('black')
 turtle.title("India Flag")
 t.hideturtle()
 for i in range(1):
-    t.speed(20)
+    t.speed(8)
     t.pencolor('red')
     t.penup()
     t.setpos(-90, 250)
